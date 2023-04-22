@@ -1,4 +1,4 @@
-# Elpato Dev - Hi there 👋
+# Elpato Dev - Compiled with problems ( ˇ෴ˇ )
 
 Welcome to our home! We are a small team of three enthusiastic programmers and designers who love to create innovative and user-friendly tools and applications. Our Mission is to provide solutions that make people's lives easier, more enjoyable, and more productive.
 
