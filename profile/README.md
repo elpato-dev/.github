@@ -1,4 +1,4 @@
-# Elpato Dev - Compiled with problems! (╯°□°)╯︵ ┻━┻
+# Elpato Dev - Compiled with problems
 
 Welcome to our home! We are a small team of three enthusiastic programmers and designers who love to create innovative and user-friendly tools and applications. Our Mission is to provide solutions that make people's lives easier, more enjoyable, and more productive.
 
@@ -8,6 +8,6 @@ This repository contains some of our latest projects. We are constantly working 
 
 ## How to Contact Us
 
-We are currently working on setting up our email and Twitter handle. Once they are ready, we will update this section. In the meantime, feel free to create an issue or pull request in this repository.
+We are currently working on setting up our email and Twitter handle. Once they are ready, we will update this section. In the meantime, feel free to create an issue or pull request in one of the repositories.
 
 Thank you for visiting us! We hope you enjoy our work and find our tools useful.
